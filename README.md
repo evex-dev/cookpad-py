@@ -38,7 +38,7 @@ asyncio.run(main())
 
 ### `Cookpad(*, token, country, language, ...)`
 
-クライアント作成。引数は全部オプショナル。デフォルトで anonymous token 使うからそのまま動く。
+クライアント作成。引数は全部オプショナル。デフォルトで anonymous token 使うからそのまま動いたり動いたりするかもしれないし、動く。
 
 ```python
 # デフォルト (日本語・匿名)
